@@ -5,7 +5,7 @@
   "homepage": "http://madmimi.github.io/angular-foundation/",
   "dependencies": {},
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.3",
     "grunt-ngdocs": "~0.1.1",
     "grunt-conventional-changelog": "~1.0.0",
     "grunt-contrib-concat": "~0.3.0",
